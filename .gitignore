@@ -1,0 +1,15 @@
+# Datos y modelos creados durante la ejecución
+*.npz
+*.keras
+*.h5
+
+# Gráficas, informes, tablas y resultados del cuaderno
+*.png
+*.csv
+Resultados_Fase3.zip
+conclusiones_fase3.txt
+
+# Temporales
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
